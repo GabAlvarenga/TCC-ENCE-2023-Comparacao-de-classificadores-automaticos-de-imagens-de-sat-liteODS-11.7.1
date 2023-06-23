@@ -30,7 +30,8 @@ de imagens de satélites para diferenciar espaço público aberto a todos de esp
 por meio de métodos de segmentação semântica. Os resultados obtidos foram utilizados
 para o cálculo do indicador ODS 11.7.1. O trabalho evidencia a importância do uso de Big
 Data do tipo imagens de satélites na produção de informações relevantes nas estatísticas
-públicas, em especial nas áreas onde não há disponibilidade de dados tradicionais.
+públicas, em especial nas áreas onde não há disponibilidade de dados tradicionais. 
+
 Palavras-chaves: big data, imagens de satélite, Indicador ODS 11.7.1, Agenda 2030,
 segmentação semântica, classificação automática.
 
