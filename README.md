@@ -1,6 +1,6 @@
 # Comparação de classificadores automáticos de imagens de satélite para o cálculo do indicador ODS 11.7.1
 
-Este repositório contém os códigos e materiais relacionados ao Trabalho de Conclusão de Curso (TCC) intitulado "Comparação de classificadores automáticos de imagens de satélite para o cálculo do indicador ODS 11.7.1", desenvolvido por Gabriel Alvarenga Rocha no Bacharelado em Estatística na Escola Nacional de Ciências estatísticas.
+Este repositório contém os códigos e materiais relacionados ao Trabalho de Conclusão de Curso (TCC) intitulado "Comparação de classificadores automáticos de imagens de satélite para o cálculo do indicador ODS 11.7.1", desenvolvido por Gabriel Alvarenga Rocha no Bacharelado em Estatística na Escola Nacional de Ciências Estatísticas.
 
 ## Sobre o TCC
 O objetivo geral deste trabalho é comparar modelos de classificação
