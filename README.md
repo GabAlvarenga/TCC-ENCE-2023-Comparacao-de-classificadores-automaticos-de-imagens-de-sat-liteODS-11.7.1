@@ -6,7 +6,7 @@ Este repositório contém os códigos e materiais relacionados ao Trabalho de Co
 O objetivo geral deste trabalho é comparar modelos de classificação
 automática em dados abertos do tipo imagens de satélites, capazes de diferenciar
 espaço público aberto a todos de espaço privado, e por fim calcular o indicador ODS
-11.7.1 -Proporção da área construída cidades que é espaço público aberto para uso de todos, por sexo, idade e pessoas com deficiência.
+11.7.1 -Proporção da área construída de cidades que é espaço público aberto para uso de todos, por sexo, idade e pessoas com deficiência.
 
 Autor: Gabriel Alvarenga Rocha \
 Orientador(a): Andréa Diniz da Silva \
