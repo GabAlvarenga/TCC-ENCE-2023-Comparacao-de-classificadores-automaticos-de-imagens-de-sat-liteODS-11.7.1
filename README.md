@@ -33,9 +33,17 @@ públicas, em especial nas áreas onde não há disponibilidade de dados tradici
 Palavras-chaves: big data, imagens de satélite, Indicador ODS 11.7.1, Agenda 2030,
 segmentação semântica, classificação automática.
 
-## Estrutura do repositório
+## Fluxo do Trabalho
+![flugrama](https://github.com/GabAlvarenga/TCC-ENCE-2023-Comparacao-de-classificadores-automaticos-de-imagens-de-sat-liteODS-11.7.1/assets/71620481/ca3f74e5-14ca-432c-99ff-9b659277dfea)
 
-## Requisitos e dependências
+## Resultados Final
+
+![XGBM_OSM](https://github.com/GabAlvarenga/TCC-ENCE-2023-Comparacao-de-classificadores-automaticos-de-imagens-de-sat-liteODS-11.7.1/assets/71620481/0d76ab39-c39f-462a-b8c9-5b4c6f1a187b)
+![TREE_pred](https://github.com/GabAlvarenga/TCC-ENCE-2023-Comparacao-de-classificadores-automaticos-de-imagens-de-sat-liteODS-11.7.1/assets/71620481/c6909d21-10f2-4e5d-b6c5-3645592c3b3a)
+![RF_OSM](https://github.com/GabAlvarenga/TCC-ENCE-2023-Comparacao-de-classificadores-automaticos-de-imagens-de-sat-liteODS-11.7.1/assets/71620481/daee6e7f-cb40-4b56-ad11-2009256d9ded)
+![MLP_OSMpng](https://github.com/GabAlvarenga/TCC-ENCE-2023-Comparacao-de-classificadores-automaticos-de-imagens-de-sat-liteODS-11.7.1/assets/71620481/f7c789bf-7442-44f7-8eed-316a22aa48e5)
+![LGBM_OSM](https://github.com/GabAlvarenga/TCC-ENCE-2023-Comparacao-de-classificadores-automaticos-de-imagens-de-sat-liteODS-11.7.1/assets/71620481/a0da544c-8424-4d1a-9b23-330fcb1f5866)
+
 
 ## Contato
 
